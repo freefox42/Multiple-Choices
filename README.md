@@ -1,2 +1,2 @@
-# Multiple-Choice
-This is a multiple choice template.
+# Multiple Choices
+This is a multiple choices template.
